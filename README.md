@@ -34,9 +34,10 @@ Frontend :
 
 # How to run the project
 
-1. Clone this repository, 
-2. Install [npm](https://nodejs.org/en/download/)
-3. In the Root directory of the project run ```npm install```
-4. Go into `Client` folder and run ```npm install```
-5. From the Root directory of the project launch terminal and run ``npm start``
+1. Clone this repository
+2. Head over to `StockExchangeSimulator` folder which will be Root Directory of the Project.
+3. Install [npm](https://nodejs.org/en/download/)
+4. In the Root directory of the project run ```npm install```
+5. Go into `Client` folder and run ```npm install```
+6. From the Root directory of the project launch terminal and run ``npm start``
 
